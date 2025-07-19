@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "BuyzyCart is a modern, easy-to-use e-commerce platform built for practice and real business use.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qayasaabasi/zayan.html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qayasaabasi/zayan.html/issues"
+  },
+  "homepage": "https://github.com/qayasaabasi/zayan.html#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "stripe": "^18.3.0"
+  }
+}
